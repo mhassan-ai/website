@@ -26,5 +26,5 @@ This project is about creating a modern and responsive e-commerce fashion websit
 
 ## 📬 How to Reach Me
 
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* GitHub: https://github.com/your-username
+* Email: [neuralhassan@-email@gmail.com](mailto:your-email@gmail.com)
+* GitHub: https://github.com/your-mhassa-ai
